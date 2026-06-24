@@ -1,9 +1,14 @@
 ---
 title: Welcome to my awesome webpage!!!!!
-link: https://5007281040.github.io/nextPage
+permalink: https://5007281040.github.io/nextPage
 ---
+
+
 # BY THE POWER OF NAUGHTINESS.. I COMMAND THIS PAGE TO BE REALLY... REALLY... COOPERATIVE!!!
-# Hello? Is this working? This is directly in index.md
+# Why is nothing displaying all of a sudden? That's really odd.
 
 
-Im so furious right now. All my hard work is gone. This is push sanity.
+# AHHHHH THIS WAS JUSSTTT WORKINGGGG WHAT IS WRONG WITH YOUUUUU
+
+
+ALL MY HARD WORK IS GONE. ALL THAT EFFORT JUST GONEEEEEE WHY ARENT YOU READING THIS FILE HOLY SHIT 
