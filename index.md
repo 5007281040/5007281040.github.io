@@ -1,7 +1,7 @@
 ---
 title: Welcome to my awesome webpage!!!!!
 
-permalink: permalink: https://5007281040.github.io/nextPage
+permalink: https://5007281040.github.io/nextPage
 
 
 ---
