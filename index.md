@@ -1,4 +1,7 @@
+
+
 ---
+layout: page
 title: Welcome to my awesome webpage!!!!!
 permalink: https://5007281040.github.io/nextPage
 ---
