@@ -1,6 +1,6 @@
 layout: page
 title: "SAMPLE"
-permalink: https://5007281040.github.io/nextPage
+
 
 # 5007281040.github.io
 
