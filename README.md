@@ -6,4 +6,4 @@ link: https://5007281040.github.io/nextPage
 # Hello? Is this working? This is directly in index.md
 
 
-Im so furious right now. All my hard work is gone.
+Im so furious right now. All my hard work is gone. This is push sanity.
