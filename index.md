@@ -1,4 +1,4 @@
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b696b3a-a779-425a-bcb8-98100836c15b" />
 
 ---
 layout: page
@@ -6,6 +6,7 @@ title: Welcome to my awesome webpage!!!!!
 permalink: https://5007281040.github.io/nextPage
 ---
 
+[The actual next page of the website](https://5007281040.github.io/nextPage)
 
 # BY THE POWER OF NAUGHTINESS.. I COMMAND THIS PAGE TO BE REALLY... REALLY... COOPERATIVE!!!
 # Why is nothing displaying all of a sudden? That's really odd.
